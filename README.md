@@ -111,24 +111,6 @@ in your browser.
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here for better presentation.
-
-### Homepage
-
-![Homepage Screenshot](images/homepage.png)
-
-### Product Listing
-
-![Products Screenshot](images/products.png)
-
-### Shopping Cart
-
-![Cart Screenshot](images/cart.png)
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this project, I gained practical experience in:
